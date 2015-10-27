@@ -1,0 +1,8 @@
+ Only 1 constructor can be called from another constructor?
+ I am getting pop up errors exist at launch but no errors shown - StringBuilder class?
+ float %5.2f - should limit to only 5 no.s before decimal but not happening given 123456.12?
+ Chromedriver not working
+ importing all annotations in one go?
+ @aftersuite & groups didn't work
+ 
+ .click() method, not available when By.xpath chosen.
